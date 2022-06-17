@@ -18,15 +18,14 @@ created with:
 
 Feel free to see and contribute
 
-![](https://github.com/rahman248/pjs/raw/main/image/Screenshot_1655435636.png)
-![](https://github.com/rahman248/pjs/raw/main/image/Screenshot_1655442429.png)
-![](https://github.com/rahman248/pjs/raw/main/image/Screenshot_1655442445.png)
-![](https://github.com/rahman248/pjs/raw/main/image/Screenshot_1655442452.png)
+<img src="https://github.com/rahman248/pjs/raw/main/image/Screenshot_1655435636.png" width="200" height="400"/>
+<img src="https://github.com/rahman248/pjs/raw/main/image/Screenshot_1655442429.png" width="200" height="400"/>
+<img src="https://github.com/rahman248/pjs/raw/main/image/Screenshot_1655442445.png" width="200" height="400"/>
+<img src="https://github.com/rahman248/pjs/raw/main/image/Screenshot_1655442452.png" width="200" height="400"/>
 
-
-![](https://github.com/rahman248/pjs/raw/main/image/Screenshot_1655442458.png)
-![](https://github.com/rahman248/pjs/raw/main/image/Screenshot_1655442464.png)
-![](https://github.com/rahman248/pjs/raw/main/image/Screenshot_1655442470.png)
+<img src="https://github.com/rahman248/pjs/raw/main/image/Screenshot_1655442458.png" width="200" height="400"/>
+<img src="https://github.com/rahman248/pjs/raw/main/image/Screenshot_1655442464.png" width="200" height="400"/>
+<img src="https://github.com/rahman248/pjs/raw/main/image/Screenshot_1655442470.png" width="200" height="400"/>
 
 
 # License
