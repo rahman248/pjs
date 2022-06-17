@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">pjs</string>
+    <string name="password">Password</string>
+    <string name="login_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login_signup">Don\'t Have Account?</string>
+    <string name="login">Sign In</string>
+    <string name="loading">Loading</string>
+    <string name="fetch_failed">Data Fetch Failed</string>
+    <string name="status">Status</string>
+    <string name="update">"Update "</string>
+    <string name="create_date">Create Date</string>
+    <string name="update_date">Update Date</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="sure">Sure</string>
+    <string name="no_sure">Not Sure</string>
+    <string name="what_could_be_better">What could be beter for name</string>
+    <string name="add_new">ADD</string>
+</resources>
